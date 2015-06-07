@@ -5,6 +5,7 @@ require(lubridate)
 library(doBy)
 library(plyr)
 library(grid)
+library(maps)
 library(ggplot2)
 source('multiplot.R')
 site2013 <- 'http://www.killedbypolice.net/kbp2013.html'
